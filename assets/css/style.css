@@ -85,3 +85,23 @@ body {
     background-color: #96C93E;
     color: white;
 }
+
+.footer{
+    background: rgb(24,58,98);
+    background: linear-gradient(90deg, rgba(24,58,98,1) 0%, rgba(8,33,96,1) 100%);
+}
+
+.footer a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.foot{
+    text-align: center;
+}
+
+.divv{
+    text-align: center;
+    align-items: center;
+    height: 80px;
+}
